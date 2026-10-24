@@ -1,0 +1,14 @@
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\bin\Debug\net10.0\EjercicioClase17.exe
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\bin\Debug\net10.0\EjercicioClase17.deps.json
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\bin\Debug\net10.0\EjercicioClase17.runtimeconfig.json
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\bin\Debug\net10.0\EjercicioClase17.dll
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\bin\Debug\net10.0\EjercicioClase17.pdb
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\EjercicioClase17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\EjercicioClase17.AssemblyInfoInputs.cache
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\EjercicioClase17.AssemblyInfo.cs
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\EjercicioClase17.csproj.CoreCompileInputs.cache
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\EjercicioClase17.dll
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\refint\EjercicioClase17.dll
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\EjercicioClase17.pdb
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\EjercicioClase17.genruntimeconfig.cache
+C:\Users\Henrry Castro\Desktop\EjercicioClase17\obj\Debug\net10.0\ref\EjercicioClase17.dll
